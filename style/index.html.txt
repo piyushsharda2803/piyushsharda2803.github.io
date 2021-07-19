@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html>
+<head>
+
+<title>Responsive Layout</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+<h1>Our Menu</h1>
+
+
+
+  <div class="col-lg-4 col-md-6 col-sm-12">
+  	<div class="box">
+  		<p class="content-name name1">Dal Makhani</p>
+  		<p class="content">Dal Makhani is a dish originating in New Delhi, India. It is a modern take on the age-old Urad ki Dal.</p>
+  	</div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 col-sm-12">
+  	<div class="box">
+   		<p class="content-name name2">rajma chawal</p>
+   		<p class="content">LRajma recipe also known as rajma masala is a North Indian dish made with kidney beans, onions, tomatoes, spices and herbs.</p>
+  	</div>
+  </div>
+
+  <div class="col-lg-4 col-md-12 col-sm-12">
+  	<div class="box">
+  		<p class="content-name name3">dosa</p>
+  		<p class="content">A dosa is a thin pancake or crepe, originating from South India, made from a fermented batter predominantly consisting of lentils and rice. It is somewhat similar to a crepe in appearance, although savoury flavours are generally emphasized./p>
+  	</div>	
+  </div>
+
+</body>
+</html>
